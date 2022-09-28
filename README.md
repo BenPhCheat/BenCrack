@@ -14,7 +14,7 @@ pkg install python2
 
 rm -rf BenCrack
 
-git clone https://github.com:BenPhCheat/BenCrack.git
+git clone https://github.com/BenPhCheat/BenCrack.git
 
 git pull
 
